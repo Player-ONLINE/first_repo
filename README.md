@@ -1,10 +1,4 @@
-# first_repo
-1
-1
-1
-1
-1
-1
-1
-1
-1
+def function(message):
+    print(message)
+    
+    message = "Hello world!"

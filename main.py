@@ -1,2 +1,1 @@
-print ("Nice to meet u <3")
-777 7777  7
+language = {"name": "Python", "float": "3.11" }
